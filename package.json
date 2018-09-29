@@ -1,0 +1,16 @@
+{
+  "name": "villa",
+  "version": "1.0.0",
+  "description": "villa api application",
+  "main": "src/server.js",
+  "repository": "git@github.com:rnut/docker-node-firebase.git",
+  "author": "rnut",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  }
+}
